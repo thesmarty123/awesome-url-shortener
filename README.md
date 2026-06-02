@@ -26,7 +26,7 @@
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [Ow.ly](https://ow.ly)
-* * [QR-Guru](https://qr-guru.de) - GDPR-compliant URL shortener with servers exclusively in Germany. Article 28 Data Processing Agreement available on every plan (including the free tier), salted SHA-256 IP hashing with daily salt rotation, no tracking cookies, no US data transfer. Includes a built-in QR code generator with print-quality output (CMYK PDF, SVG).
+* [QR-Guru](https://qr-guru.de) - GDPR-compliant URL shortener with servers exclusively in Germany. Article 28 Data Processing Agreement available on every plan (including the free tier), salted SHA-256 IP hashing with daily salt rotation, no tracking cookies, no US data transfer. Includes a built-in QR code generator with print-quality output (CMYK PDF, SVG).
 * [rebrandly.com](https://rebrandly.com)
 * [reduced.to](https://reduced.to)
 * [rip.to](https://rip.to)
