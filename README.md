@@ -26,6 +26,7 @@
 * [name.com](https://www.name.com/branded-url-shortener) - Powered by bli.nk
 * [oe.cd](https://oe.cd/) - Only OECD-related URLs can be shortened on this website
 * [Ow.ly](https://ow.ly)
+* [QR-Guru](https://qr-guru.de) - GDPR-compliant URL shortener and QR code generator based in Germany with AVV contract, salted SHA-256 IP hashing, and CMYK-PDF export for print campaigns.
 * [rebrandly.com](https://rebrandly.com)
 * [reduced.to](https://reduced.to)
 * [rip.to](https://rip.to)
